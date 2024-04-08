@@ -17,7 +17,7 @@ Page({
 		wx.showNavigationBarLoading()
 			wx.hideNavigationBarLoading()
 			wx.setNavigationBarTitle({
-				title: '正在热映 - ' + config.city
+				title: '正在上映'
       })
 			douban.fetchFilms.call(that,'popular', that.data.start)
 	},

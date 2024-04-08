@@ -16,11 +16,11 @@ module.exports = {
     hotKeyword: ['坠落的审判', '美国小说', '破墓', '周处除三害', '奇迹俱乐部', '留校联盟', '可怜的东西', '奇美拉', '法式火锅', '首尔之春', '新威龙杀阵'],
     hotTag: ['动作', '喜剧', '爱情', '悬疑','恐怖','剧情','奇幻','冒险','战争'],
     bannerList: [
-        {type:'film', id: '35633650', imgUrl: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2905578172.jpg'},
-        {type:'film', id: '35611467', imgUrl: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2900908599.jpg'},
-        {type:'film', id: '35902857', imgUrl: 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2898894527.jpg'},
-        {type:'film', id: '35490167', imgUrl: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2905896429.jpg'},
-        {type:'film', id: '35074609', imgUrl: 'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2901830629.jpg'}
+        {type:'film', id: '35633650', imgUrl: 'https://cfm40oi5g6hasssesujg.baseapi.memfiredb.com/storage/v1/object/public/files/16pic_4610785_b.jpg'},
+        {type:'film', id: '35611467', imgUrl: 'https://cfm40oi5g6hasssesujg.baseapi.memfiredb.com/storage/v1/object/public/files/b33338ccb83c3ca921a5c9d34773213.jpg'},
+        {type:'film', id: '35902857', imgUrl: 'https://cfm40oi5g6hasssesujg.baseapi.memfiredb.com/storage/v1/object/public/files/i-bn20180725-1-06.jpg'},
+        {type:'film', id: '35490167', imgUrl: 'https://cfm40oi5g6hasssesujg.baseapi.memfiredb.com/storage/v1/object/public/files/i-bn20180725-1-10.jpg?t=2024-04-08T08%3A24%3A24.864Z'},
+        {type:'film', id: '35074609', imgUrl: 'https://cfm40oi5g6hasssesujg.baseapi.memfiredb.com/storage/v1/object/public/files/i-bn20180725-1-10.jpg?t=2024-04-08T08%3A24%3A24.864Z'}
     ],
     skinList: [
         {title: '公路', imgUrl: 'https://cfm40oi5g6hasssesujg.baseapi.memfiredb.com/storage/v1/object/public/avatar/%E5%85%AC%E8%B7%AF.jpg?t=2024-04-03T06%3A26%3A21.743Z'},
